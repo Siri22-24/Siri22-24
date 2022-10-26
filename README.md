@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **arnabdey1543@gmail.com**
+- 📫 How to reach me **chsrikanth542@gmail.com**
 
 
 [![@arnab1543's Holopin board](https://holopin.io/api/user/board?user=arnab1543)](https://holopin.io/@arnab1543)
