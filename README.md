@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arnab Dey</h1>
+<h1 align="center">Hi 👋, I'm Srikanth Cherukuvada</h1>
 <h3 align="center">MERN stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnabdey1543&label=Profile%20views&color=0e75b6&style=flat" alt="arnabdey1543" /> </p>
